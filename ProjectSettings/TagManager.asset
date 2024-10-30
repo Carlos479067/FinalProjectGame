@@ -1,0 +1,103 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Interactable
+  - Bookshelf
+  - Plant
+  - Bathtub
+  - Toilet
+  - Pushable
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Items
+  - obstacleLayer
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Floors
+    uniqueID: 3770801943
+    locked: 0
+  - name: Room Walls
+    uniqueID: 3973268823
+    locked: 0
+  - name: House Walls
+    uniqueID: 1793015299
+    locked: 0
+  - name: Collider Objects
+    uniqueID: 1524865393
+    locked: 0
+  - name: Non Collider Objects
+    uniqueID: 4284996879
+    locked: 0
+  - name: OurDoor Floors
+    uniqueID: 1010217477
+    locked: 0
+  - name: Cliff
+    uniqueID: 2179479817
+    locked: 0
+  - name: House
+    uniqueID: 833660441
+    locked: 0
+  - name: Water
+    uniqueID: 1594848483
+    locked: 0
+  - name: Bridge
+    uniqueID: 481783965
+    locked: 0
+  - name: Trunk
+    uniqueID: 3388981411
+    locked: 0
+  - name: AI Character
+    uniqueID: 3375204887
+    locked: 0
+  - name: Atlas
+    uniqueID: 1346057815
+    locked: 0
+  - name: Player
+    uniqueID: 365585155
+    locked: 0
+  - name: HouseBackground
+    uniqueID: 202807927
+    locked: 0
+  - name: Dungeon
+    uniqueID: 1463657811
+    locked: 0
+  - name: Background Trees
+    uniqueID: 1166386843
+    locked: 0
+  - name: Trees
+    uniqueID: 1827930325
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
